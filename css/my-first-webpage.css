@@ -1,0 +1,19 @@
+h1 {
+  color: pink;
+  text-align: center;
+}
+
+h2 {
+  color: red;
+  text-align: center;
+  font-style: bold;
+}
+
+p {
+  font-size: 20px;
+}
+
+ul {
+  font-size: 25px;
+  line-height: 25px;
+}
