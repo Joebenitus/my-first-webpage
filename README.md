@@ -1,5 +1,5 @@
 # My First Web Page
-### by Joseph Karnafel
+### by Joseph Karnafel & Jaki Widby
 
 ## Description
 This is an excercise to work on my web development skills. 
